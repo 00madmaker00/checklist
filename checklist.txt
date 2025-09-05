@@ -2,4 +2,4 @@
 // TO DO:
 // Datasheet links
 // Current Prototype Cost Estimate
-// 
+// hardware rough rough prototype for software devs to test drivers, OS, firmware etc..
