@@ -1,5 +1,5 @@
 // Test file for learning Git and GitHub
 // TO DO:
-// Datasheet links
-// Current Prototype Cost Estimate
+// Datasheet links: Completed... Commit
+// Current Prototype Cost Estimate: Completed... Keep Up To Date
 // hardware rough rough prototype for software devs to test drivers, OS, firmware etc..
